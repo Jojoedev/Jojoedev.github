@@ -1,0 +1,33 @@
+#body {
+	background: linear-gradient(to left, brown, blue);
+	border-style: dashed;
+	border-width: 4px;
+	border-color: linen;
+	border-radius: 10px;
+	margin-left: 550px;
+	margin-right: 550px;
+	
+}
+
+#btn {
+	color: red;
+	font-size: 20px;
+	cursor: pointer; 
+	margin-left: 100px;
+}
+#btn.hover {
+	color : green;
+}
+
+	
+#h3{
+	color: gold;
+	text-align: center;
+	font-size: 20px;
+}
+
+#Terms {
+color: gold;
+font-size: 15px;
+margin-left: 55px;
+}
